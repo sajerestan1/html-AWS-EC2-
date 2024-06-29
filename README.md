@@ -2,11 +2,11 @@
 # Project Deployment Documentation
 
 ## Purpose
-This document guides me through deploying a web page using AWS EC2 with Apache 2 on Ubuntu. It aims to set up a web server environment and deploy my HTML, CSS, and image files, making my web page accessible via a public IP address.
+This is a documentation of how I deployed a web page using AWS EC2 with Apache 2 on Ubuntu. It aims to set up a web server environment and deploy my HTML, CSS, and image files, making my web page accessible via a public IP address.
 
 ## Prerequisites
-Before I begin, I need to have:
-- An AWS account with necessary permissions to create and manage EC2 instances.
+
+- An AWS account with the necessary permissions to create and manage EC2 instances.
 - Basic knowledge of using Git for version control.
 - Familiarity with SSH for connecting to remote servers.
 - A GitHub repository set up to store my project files.
